@@ -16,7 +16,7 @@ import stat
 from tweepy import auth
 
 
-## authentication
+##  authentication
 #username = 'UnluIskender' ## put a valid Twitter username here
 
 consumer_key = '3uVVgZoOq3WrCMJNL5WMIx2AP'
