@@ -36,7 +36,7 @@ def main():
 	#deadline_date = str(sys.argv[2])
 	#deadline_date	=	raw_input("Please, enter your deadline date in form YYYY/MM/DD/HH :")
 	deadline_array	= deadline_date.split('/')
-	#print (deadline_array)
+	# print (deadline_array)
 	print int(deadline_array[0])
 	date = datetime.datetime(int(start_array[0]),int(start_array[1]),int(start_array[2]),int(start_array[3]))
 	print date
