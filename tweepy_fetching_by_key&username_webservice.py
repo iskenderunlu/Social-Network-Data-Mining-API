@@ -15,7 +15,7 @@ app = Flask(__name__)
 
 @app.route("/<screen_name>/<max_tweets>/<query>",  methods=['GET'])
 def fetchby_key_username2(screen_name,max_tweets,query):
-	#Twitter API credentials
+	# Twitter API credentials
 	consumer_key = "3uVVgZoOq3WrCMJNL5WMIx2AP"
 	consumer_secret = "q6JV9QKe9rEKhHx7xAgR6zpQdSoLyrCw0pfb5jT3l5iEuLLNSv"
 	access_key = "2906391365-VEAnfVxOR0cPtAfrPYvkuagKhkYpXb6fCP9inDZ"
