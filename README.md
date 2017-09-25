@@ -1,5 +1,3 @@
-# Social-Network-Data-Mining-API
-Social Network Big Data Analyse
+# Twitter Tweet Fetching by parameters in Jason Format
 
-
-I will update and develop my project, I am using hadoop python implementations. Today, my goal is to develop a Twitter Data Mining API. Maybe in the future, my goal may be to develop a generic social network data mining api. 
+I am using hadoop python implementations. Today, You can fetch tweets according to some parameters using Twitter Restful APIs. You need to obtain credentials of Twitter APIs to work with the API.
