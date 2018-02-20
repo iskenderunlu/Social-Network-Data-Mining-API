@@ -4,15 +4,12 @@ I am using hadoop python implementations. Today, You can fetch tweets according 
 
 ##  authentication
 
-username = 'UnluIskender'
+username = USERNAME
 
-consumer_key = '3uVVgZoOq3WrCMJNL5WMIx2AP'
+consumer_key = CONSUMER_KEY
 
-consumer_secret = 'q6JV9QKe9rEKhHx7xAgR6zpQdSoLyrCw0pfb5jT3l5iEuLLNSv'
+consumer_secret = CONSUMER_SECRET
 
-access_token = '2906391365-VEAnfVxOR0cPtAfrPYvkuagKhkYpXb6fCP9inDZ'
+access_token = ACCESS_TOKEN
 
-access_secret = 'Bm7RDc9xMr95LPZjKJKd3BN7sYaz3CF3STR81jdwpi0T5'
-
-
-
+access_secret = ACCESS_SECRET
